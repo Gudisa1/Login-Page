@@ -1,0 +1,20 @@
+.back {
+  background-color: #6200ea;
+}
+body {
+  padding-top: 50px;
+}
+/* body {
+  margin: 50px 450px 50px 450px;
+}
+@media (min-width: 2068px) {
+  body {
+    margin: 50px 200px 50px 200px;
+  }
+}
+
+@media (min-width: 1400px) {
+  body {
+    margin: 50px 150px 50px 150px;
+  }
+} */
